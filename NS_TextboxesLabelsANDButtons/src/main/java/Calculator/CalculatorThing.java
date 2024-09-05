@@ -54,7 +54,6 @@ public class CalculatorThing {
                 }
                 break;
         }
-        result_lbl.set
 
     }
 }
